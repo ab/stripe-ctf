@@ -1,0 +1,3 @@
+#!/bin/sh
+
+cat /home/level02/.password
